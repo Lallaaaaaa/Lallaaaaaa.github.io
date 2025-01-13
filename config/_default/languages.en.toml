@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Ilaria La Torre"
+title = "Grammyfy"
 
 [params]
   displayName = "English"
@@ -9,14 +9,14 @@ title = "Ilaria La Torre"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "My personal portfolio"
+  description = "in cucina con una fuorisede"
 
 [params.author]
-  name = "Ilaria La Torre"
+  name = "GNAMMYFY"
   email = "ilarialatorre01@gmail.com"
   image = "img/blowfish_logo.png"
-  headline = "My personal portfolio"
-  bio = "My personal portfolio"
+  headline = "in cucina con una fuorisede"
+  bio = "in cucina con una fuorisede"
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },

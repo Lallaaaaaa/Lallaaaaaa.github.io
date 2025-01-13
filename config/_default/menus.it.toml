@@ -11,44 +11,31 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documenti"
-  pageRef = "docs"
+  name = "Home"
+  pageRef = "Documenti"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "Ricette veloci"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Esempi"
+  name = "La spesa furba"
   weight = 20
 
 [[main]]
-  name = "Campioni"
-  parent = "Esempi"
-  pageRef = "samples"
-  weight = 16
-
-[[main]]
-  name = "Vetrina"
-  parent = "Esempi"
-  pageRef = "examples"
-  weight = 30
-
-[[main]]
-  name = "Ricette"
-  parent = "Esempi"
+  name = "Tips fuorisede"
   pageRef = "guides"
   weight = 40
 
 [[main]]
-  name = "Utenti"
+  name = "Community"
   pageRef = "users"
   weight = 90
 
 [[main]]
-  name = "Merch"
+  name = "Chi sono"
   url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
   weight = 100
 
