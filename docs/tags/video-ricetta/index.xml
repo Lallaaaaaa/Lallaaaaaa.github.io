@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video-Ricetta on </title>
-    <link>http://localhost:1313/tags/video-ricetta/</link>
+    <link>https://Lallaaaaaa.github.io/tags/video-ricetta/</link>
     <description>Recent content in Video-Ricetta on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <managingEditor>ilarialatorre01@gmail.com (GNAMMYFY)</managingEditor>
     <webMaster>ilarialatorre01@gmail.com (GNAMMYFY)</webMaster>
     <copyright>© 2025 GNAMMYFY</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/video-ricetta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Lallaaaaaa.github.io/tags/video-ricetta/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Porridge classico</title>
-      <link>http://localhost:1313/docs/configurazioni/</link>
+      <link>https://Lallaaaaaa.github.io/docs/configurazioni/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/configurazioni/</guid>
+      <guid>https://Lallaaaaaa.github.io/docs/configurazioni/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configurazioni/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/docs/configurazioni/featured.svg" />
     </item>
     
   </channel>
