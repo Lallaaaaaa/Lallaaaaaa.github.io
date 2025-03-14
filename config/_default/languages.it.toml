@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
-weight = 2
-title = "Gnammyfy"
+weight = 5
+title = ""
 
 [params]
   displayName = "Italiano"
@@ -14,6 +14,7 @@ title = "Gnammyfy"
 [params.author]
   name = "GNAMMYFY"
   image = "img/blowfish_logo.png"
+  email = "ilarialatorre01@gmail.com"
   headline = "in cucina con una fuorisede"
   bio = "in cucina con una fuorisede"
   links = [

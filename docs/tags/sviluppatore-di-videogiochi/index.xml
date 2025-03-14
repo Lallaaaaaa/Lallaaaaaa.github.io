@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sviluppatore Di Videogiochi on Gnammyfy</title>
-    <link>https://Lallaaaaaa.github.io/tags/sviluppatore-di-videogiochi/</link>
-    <description>Recent content in Sviluppatore Di Videogiochi on Gnammyfy</description>
+    <title>Sviluppatore Di Videogiochi on </title>
+    <link>http://localhost:1313/tags/sviluppatore-di-videogiochi/</link>
+    <description>Recent content in Sviluppatore Di Videogiochi on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
+    <managingEditor>ilarialatorre01@gmail.com (GNAMMYFY)</managingEditor>
+    <webMaster>ilarialatorre01@gmail.com (GNAMMYFY)</webMaster>
     <copyright>© 2025 GNAMMYFY</copyright>
-    <atom:link href="https://Lallaaaaaa.github.io/tags/sviluppatore-di-videogiochi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sviluppatore-di-videogiochi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Synaptic Sugar</title>
-      <link>https://Lallaaaaaa.github.io/users/synaptic-sugar/</link>
+      <link>http://localhost:1313/users/synaptic-sugar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Lallaaaaaa.github.io/users/synaptic-sugar/</guid>
+      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
+      <guid>http://localhost:1313/users/synaptic-sugar/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/users/synaptic-sugar/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/synaptic-sugar/feature.jpg" />
     </item>
     
     <item>
       <title>Ignacio Conde</title>
-      <link>https://Lallaaaaaa.github.io/users/ignacio-conde/</link>
+      <link>http://localhost:1313/users/ignacio-conde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Lallaaaaaa.github.io/users/ignacio-conde/</guid>
+      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
+      <guid>http://localhost:1313/users/ignacio-conde/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/users/ignacio-conde/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ignacio-conde/feature.jpg" />
     </item>
     
   </channel>
