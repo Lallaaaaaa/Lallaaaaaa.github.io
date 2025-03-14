@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 5
+title = "Gnammyfy"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/blowfish_logo_transparent.png"
+  description = "in cucina con una fuorisede"
+
+[params.author]
+  name = "GNAMMYFY"
+  email = "ilarialatorre01@gmail.com"
+  image = "img/blowfish_logo.png"
+  headline = "in cucina con una fuorisede"
+  bio = "in cucina con una fuorisede"
+  links = [
+    { instagram = "https://instagram.com/ilarialatorree" },
+    { tiktok = "https://wwww.tiktok.com/@ilarja._" },
+  ]
