@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://Lallaaaaaa.github.io/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/"
+      href="https://Lallaaaaaa.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://Lallaaaaaa.github.io/en/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/authors/</loc>
+    <loc>https://Lallaaaaaa.github.io/en/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/authors/"
+      href="https://Lallaaaaaa.github.io/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/authors/"
+      href="https://Lallaaaaaa.github.io/en/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://Lallaaaaaa.github.io/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/categories/"
+      href="https://Lallaaaaaa.github.io/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/categories/"
+      href="https://Lallaaaaaa.github.io/en/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://Lallaaaaaa.github.io/en/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/series/"
+      href="https://Lallaaaaaa.github.io/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/series/"
+      href="https://Lallaaaaaa.github.io/en/series/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://Lallaaaaaa.github.io/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/tags/"
+      href="https://Lallaaaaaa.github.io/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/tags/"
+      href="https://Lallaaaaaa.github.io/en/tags/"
     />
   </url>
 </urlset>

@@ -3,796 +3,796 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/docs/welcome/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/welcome/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/installation/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/installation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/per-iniziare/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/per-iniziare/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/configurazioni/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/configurazioni/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/homepage-layout/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/homepage-layout/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/shortcodes/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/shortcodes/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/front-matter/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/front-matter/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/multi-author/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/multi-author/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/partials/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/partials/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/thumbnails/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/thumbnails/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/content-examples/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/content-examples/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/series/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/advanced-customisation/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/advanced-customisation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/hosting-deployment/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/hosting-deployment/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/firebase-views/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/firebase-views/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Lallaaaaaa.github.io/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://Lallaaaaaa.github.io/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/"
+      href="https://Lallaaaaaa.github.io/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/blowfish/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/blowfish/</loc>
+    <loc>https://Lallaaaaaa.github.io/categories/blowfish/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Lallaaaaaa.github.io/categories/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/categories/"
+      href="https://Lallaaaaaa.github.io/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/categories/"
+      href="https://Lallaaaaaa.github.io/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/authors/"
+      href="https://Lallaaaaaa.github.io/en/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/authors/"
+      href="https://Lallaaaaaa.github.io/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/hugo/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/nunocoracao/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/nunocoracao/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/open-source/</loc>
+    <loc>https://Lallaaaaaa.github.io/categories/open-source/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/</loc>
+    <loc>https://Lallaaaaaa.github.io/guides/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/tags/"
+      href="https://Lallaaaaaa.github.io/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/tags/"
+      href="https://Lallaaaaaa.github.io/tags/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/tutorial/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/examples/</loc>
+    <loc>https://Lallaaaaaa.github.io/examples/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/authors/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/multiple-authors/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/multiple-authors/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sample/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sample/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/secondauthor/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/secondauthor/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/thumbnail/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/thumbnail/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/thumbnail_sample/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/thumbnail_sample/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/documentazione/</loc>
+    <loc>https://Lallaaaaaa.github.io/series/documentazione/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/icons/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/icons/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/ricetta/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/ricetta/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://Lallaaaaaa.github.io/series/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/series/"
+      href="https://Lallaaaaaa.github.io/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/series/"
+      href="https://Lallaaaaaa.github.io/series/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/shortcodes/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/users/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/users/</loc>
+    <loc>https://Lallaaaaaa.github.io/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/video-ricetta/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/video-ricetta/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/users/users/</loc>
+    <loc>https://Lallaaaaaa.github.io/users/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/%E5%8F%8B%E9%93%BE/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/users/users/</loc>
+    <loc>https://Lallaaaaaa.github.io/users/users/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/%E7%A4%BA%E4%BE%8B/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/markdown/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/markdown/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/gist/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/rich-content/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/twitter/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/twitter/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/vimeo/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/vimeo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/youtube/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/youtube/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/latin/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/latin/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/text/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/text/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/katex/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/katex/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/mathematical-notation/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/mathematical-notation/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/maths/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/maths/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/chart/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/chart/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/charts/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/charts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/diagram/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/diagram/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/diagrams-flowcharts/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/diagrams-flowcharts/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/graph/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/graph/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/mermaid/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/mermaid/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/emoji/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/template/</loc>
+    <loc>https://Lallaaaaaa.github.io/guides/template/</loc>
     <lastmod>1987-12-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/template/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/template/</loc>
     <lastmod>1987-12-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ilalato/</loc>
+    <loc>https://Lallaaaaaa.github.io/ilalato/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/secondauthor/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/secondauthor/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/accademia/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/accademia/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/advanced/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/analytics/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/analytics/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/autore/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/autore/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/autore-del-tema/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/autore-del-tema/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/blog/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/blog-personale/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/blog-personale/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/blog-sulla-tecnologia/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/blog-sulla-tecnologia/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/comments/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/comments/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/config/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/config/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/content/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/content/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/deployment/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/deployment/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/docs/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/docs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/documentation/</loc>
+    <loc>https://Lallaaaaaa.github.io/series/documentation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/secondauthor/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/secondauthor/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/example/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/example/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/favicons/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/favicons/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/firebase/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/firebase/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/fotografia-di-bambole/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/fotografia-di-bambole/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/front-matter/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/front-matter/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/giardino-digitale/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/giardino-digitale/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/github/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/homepage/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/homepage/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/hosting/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/hosting/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/icon/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/icon/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/layouts/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/layouts/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/lead/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/lead/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/likes/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/likes/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/modellatore/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/modellatore/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/netlify/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/nunocoracao/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/nunocoracao/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/nunocoracao/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/nunocoracao/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/partials/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/partials/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/render/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/render/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/series/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/examples/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/examples/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-aziendale/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-aziendale/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-del-club-universitario/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-del-club-universitario/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-del-progetto/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-del-progetto/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-dellapp/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-dellapp/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-dellorganizzazione/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-dellorganizzazione/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-di-fumetti/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-di-fumetti/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-di-giochi/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-di-giochi/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-di-gioco/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-di-gioco/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-personale/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-personale/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sito-portfolio/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sito-portfolio/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sviluppatore-di-software/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sviluppatore-di-software/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/sviluppatore-di-videogiochi/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/sviluppatore-di-videogiochi/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/views/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/views/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/examples/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/examples/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/guides/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/guides/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/guides/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/samples/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/authors/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/docs/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/advanced/_index.ja/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/advanced/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/advanced/_index.zh-cn/</loc>
+    <loc>https://Lallaaaaaa.github.io/tags/advanced/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
