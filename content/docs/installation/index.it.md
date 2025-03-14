@@ -1,10 +1,10 @@
 ---
-title: "Installazione"
+title: "Overnight porridge"
 weight: 2
 draft: false
 description: "Come installare il tema Blowfish."
 slug: "installation"
-tags: ["installazione", "documenti"]
+tags: ["ricetta"]
 series: ["Documentazione"]
 series_order: 2
 ---

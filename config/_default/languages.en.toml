@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
-weight = 1
-title = "Grammyfy"
+weight = 5
+title = "Gnammyfy"
 
 [params]
   displayName = "English"
@@ -18,6 +18,6 @@ title = "Grammyfy"
   headline = "in cucina con una fuorisede"
   bio = "in cucina con una fuorisede"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { instagram = "https://instagram.com/ilarialatorree" },
+    { tiktok = "https://wwww.tiktok.com/@ilarja._" },
   ]

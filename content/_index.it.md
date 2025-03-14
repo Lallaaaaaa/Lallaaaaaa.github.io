@@ -2,24 +2,8 @@
 title: "Benvenuti nel mio sito prova!"
 description: "Questa pagina è stata creata per capire come viene utilizzata."
 ---
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
+<div class="flex px-10 py-8 mb-8 text-base rounded-md ">
   <span class="flex items-center justify-between grow dark:text-neutral-400">
-    <span class="prose dark:prose-invert">Questa è una demo del layout <code id="layout">background</code>.</span>
-    <pulsante
-      id="interruttore-layout-pulsante"
-      class="px-4 !text-neutral !no-underline round-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Cambia layout &orarr;
-    </pulsante>
-  </span>
-</div>
-
-
-```node
-npx blowfish-tools
-```  
-
-{{< youtubeLite id="SgXhGb-7QbU" label="Demo degli strumenti Blowfish" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uasKvGQ7npU?si=zBebHSHBGhLLpePn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </span></div>
+  

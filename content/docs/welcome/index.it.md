@@ -1,9 +1,9 @@
 ---
-title: "Benvenuti a Blowfish"
+title: "Pancake"
 weight: 1
 draft: false
 description: "Scopri le novità della versione 2.0 di Blowfish."
-tags: ["novità", "documenti"]
+tags: ["ricetta"]
 series: ["Documentazione"]
 series_order: 1
 ---
@@ -14,11 +14,8 @@ Blowfish è ricco di tantissime funzionalità.
 
 Lo scopo originale di Blowfish era quello di sviluppare un tema semplice e leggero. Il tema è un fork del <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> e ne espande la visione iniziale.
 
-## Tailwind CSS 3.0
 
-Tailwind CSS è il cuore di Blowfish e questa versione contiene l'ultima [Tailwind CSS versione 3](https://tailwindcss.com/blog/tailwindcss-v3). Porta con sé ottimizzazioni delle prestazioni e supporto per alcune nuove fantastiche funzionalità CSS.
-
-{{< youtube "TmWIrBPE6Bc" >}}
+{{< youtube "tWjhDAys5hc" >}}
 
 ## Supporto multilingue
 
