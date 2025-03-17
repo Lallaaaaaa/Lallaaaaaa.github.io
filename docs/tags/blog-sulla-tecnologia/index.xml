@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Sulla Tecnologia on </title>
-    <link>https://Lallaaaaaa.github.io/tags/blog-sulla-tecnologia/</link>
-    <description>Recent content in Blog Sulla Tecnologia on </description>
+    <title>Blog Sulla Tecnologia on Gnammyfy</title>
+    <link>http://localhost:1313/tags/blog-sulla-tecnologia/</link>
+    <description>Recent content in Blog Sulla Tecnologia on Gnammyfy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <managingEditor>ilarialatorre01@gmail.com (GNAMMYFY)</managingEditor>
     <webMaster>ilarialatorre01@gmail.com (GNAMMYFY)</webMaster>
     <copyright>© 2025 GNAMMYFY</copyright>
-    <atom:link href="https://Lallaaaaaa.github.io/tags/blog-sulla-tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog-sulla-tecnologia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>deepumohan.com/tech</title>
-      <link>https://Lallaaaaaa.github.io/users/deepumohan.com-tech/</link>
+      <link>http://localhost:1313/users/deepumohan.com-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>https://Lallaaaaaa.github.io/users/deepumohan.com-tech/</guid>
+      <guid>http://localhost:1313/users/deepumohan.com-tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/users/deepumohan.com-tech/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/deepumohan.com-tech/feature.jpg" />
     </item>
     
     <item>
       <title>MEM v ENNBEE</title>
-      <link>https://Lallaaaaaa.github.io/users/mem-v-ennbee/</link>
+      <link>http://localhost:1313/users/mem-v-ennbee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>https://Lallaaaaaa.github.io/users/mem-v-ennbee/</guid>
+      <guid>http://localhost:1313/users/mem-v-ennbee/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/users/mem-v-ennbee/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mem-v-ennbee/feature.jpg" />
     </item>
     
     <item>
       <title>UmmIt - Blog</title>
-      <link>https://Lallaaaaaa.github.io/users/ummit---blog/</link>
+      <link>http://localhost:1313/users/ummit---blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>https://Lallaaaaaa.github.io/users/ummit---blog/</guid>
+      <guid>http://localhost:1313/users/ummit---blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/users/ummit---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ummit---blog/feature.jpg" />
     </item>
     
     <item>
       <title>Jinbo Pan - Blog</title>
-      <link>https://Lallaaaaaa.github.io/users/jinbo-pan---blog/</link>
+      <link>http://localhost:1313/users/jinbo-pan---blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>https://Lallaaaaaa.github.io/users/jinbo-pan---blog/</guid>
+      <guid>http://localhost:1313/users/jinbo-pan---blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Lallaaaaaa.github.io/users/jinbo-pan---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jinbo-pan---blog/feature.jpg" />
     </item>
     
   </channel>

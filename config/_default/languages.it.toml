@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 5
-title = ""
+title = "Gnammyfy"
 
 [params]
   displayName = "Italiano"
@@ -15,8 +15,8 @@ title = ""
   name = "GNAMMYFY"
   image = "img/blowfish_logo.png"
   email = "ilarialatorre01@gmail.com"
-  headline = "in cucina con una fuorisede v.2"
-  bio = "in cucina con una fuorised v.2 "
+  headline = "in cucina con una fuorisede"
+  bio = "in cucina con una fuorisede"
   links = [
    { instagram = "https://instagram.com/ilarialatorree" },
     { tiktok = "https://wwww.tiktok.com/@ilarja._" },

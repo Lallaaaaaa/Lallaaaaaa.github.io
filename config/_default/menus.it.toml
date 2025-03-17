@@ -1,15 +1,17 @@
 [[main]]
   name = "Home"
+  pageRef = "/"
   weight = 10
 
 [[main]]
   name = "Merch"
-  pageRef = "users"
+  pageRef = "merch"
+  layout= "card"
   weight = 60
 
 [[main]]
-  name = "Chi sono"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
+  name = "About me"
+  pageRef = "Aboutme"
   weight = 80
   
 #[[main]]
@@ -41,11 +43,9 @@
 # the copyright notice. Configure as per the main menu above.
 
  [[footer]]
-   name = "Tags"
-   pageRef = "tags"
+   name = ""
+
    weight = 10
 
  [[footer]]
-   name = "Authors"
-   pageRef = "authors"
-   weight = 20
+
