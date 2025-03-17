@@ -53,13 +53,13 @@
       <guid>http://localhost:1313/merch/</guid>
       <description>&lt;div id=&#34;gallery-d740a3fa938c1710785c583300e7aa02&#34; class=&#34;gallery&#34;&gt;
   
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
-  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
-  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
-  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w50 md:grid-w33 xl:grid-w25&#34; /&gt;
+  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
+  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
+  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
+  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
+  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
+  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
+  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
 
 &lt;/div&gt;</description>
       
