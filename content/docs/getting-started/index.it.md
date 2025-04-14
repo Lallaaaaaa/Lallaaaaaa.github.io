@@ -59,5 +59,3 @@ La **mug cake al cioccolato** è la soluzione perfetta: si prepara direttamente 
 Hai preparato questa delizia? Scatta una foto, tagga **@gnammyfy** e usa l’hashtag **#gnammycake** — le più belle finiranno nella nostra gallery 💛
 
 ---
-
-Vuoi anche una versione **grafica per social** o un formato **stampabile** della ricetta? Posso preparartelo!
