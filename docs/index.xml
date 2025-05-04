@@ -59,17 +59,7 @@ Con questi &lt;strong&gt;pancake allo yogurt&lt;/strong&gt;, la tua mattina ha u
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/merch/</guid>
-      <description>&lt;div id=&#34;gallery-d740a3fa938c1710785c583300e7aa02&#34; class=&#34;gallery&#34;&gt;
-  
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-  &lt;img src=&#34;apron.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-  &lt;img src=&#34;cup.png&#34; class=&#34;grid-w100 md:grid-w100 xl:grid-w100&#34; /&gt;
-
-&lt;/div&gt;</description>
+      <description></description>
       
     </item>
     
@@ -79,21 +69,7 @@ Con questi &lt;strong&gt;pancake allo yogurt&lt;/strong&gt;, la tua mattina ha u
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/installation/</guid>
-      <description>&lt;p&gt;Segui semplicemente la procedura standard &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Avvio Rapido&lt;/a&gt; di Hugo per iniziare subito.&lt;/p&gt;
-&lt;p&gt;Sono riportate le istruzioni dettagliate per l&amp;rsquo;installazione. Sono disponibili anche le istruzioni per &lt;a href=&#34;#installazione-aggiornamenti&#34;&gt;aggiornare il tema&lt;/a&gt;.&lt;/p&gt;
-
-
-&lt;h2 class=&#34;relative group&#34;&gt;Installazione 
-    &lt;div id=&#34;installazione&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#installazione&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;Queste istruzioni ti consentiranno di iniziare a utilizzare Hugo e Blowfish partendo da uno stato completamente vuoto. La maggior parte delle dipendenze menzionate in questa guida possono essere installate utilizzando il gestore pacchetti corretti per la tua piattaforma.&lt;/p&gt;</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.png" />
     </item>
     
@@ -120,44 +96,42 @@ La &lt;strong&gt;mug cake al cioccolato&lt;/strong&gt; è la soluzione perfetta:
     
     <item>
       <title>Piadina</title>
-      <link>http://localhost:1313/docs/configurazioni/</link>
+      <link>http://localhost:1313/docs/configuration/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/configurazioni/</guid>
+      <guid>http://localhost:1313/docs/configuration/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configurazioni/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
     </item>
     
     <item>
-      <title>Homepage Layout</title>
+      <title>Piadina di zucchine</title>
       <link>http://localhost:1313/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/homepage-layout/</guid>
-      <description>&lt;p&gt;Blowfish fornisce un layout della home page completamente flessibile. Sono disponibili due modelli principali tra cui scegliere con impostazioni aggiuntive per adattare il design. In alternativa, puoi anche fornire il tuo modello e avere il controllo completo sul contenuto della home page.&lt;/p&gt;</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
     </item>
     
     <item>
-      <title>Shortcodes</title>
+      <title>Piadina di melanzane</title>
       <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/shortcodes/</guid>
-      <description>&lt;p&gt;In addition to all the &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;default Hugo shortcodes&lt;/a&gt;, Blowfish adds a few extras for additional functionality.&lt;/p&gt;
-
-
-&lt;h2 class=&#34;relative group&#34;&gt;Alert 
-    &lt;div id=&#34;alert&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Piadina di melanzane 
+    &lt;div id=&#34;piadina-di-melanzane&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#alert&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#piadina-di-melanzane&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;alert&lt;/code&gt; outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p&gt;</description>
+&lt;p&gt;Hai solo una melanzana triste in frigo e poca voglia di cucinare? 🍆&lt;br&gt;
+La piadina di melanzane è il salva-cena perfetto: si prepara in forno, con pochi ingredienti e in soli 15 minuti!&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
     </item>
     
@@ -249,16 +223,6 @@ La &lt;strong&gt;mug cake al cioccolato&lt;/strong&gt; è la soluzione perfetta:
       <guid>http://localhost:1313/docs/series/</guid>
       <description>&lt;p&gt;Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Advanced Customisation</title>
-      <link>http://localhost:1313/docs/advanced-customisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
-      <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>
@@ -1560,6 +1524,16 @@ La &lt;strong&gt;mug cake al cioccolato&lt;/strong&gt; è la soluzione perfetta:
     
     <item>
       <title></title>
+      <link>http://localhost:1313/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
+      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/ilalato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
@@ -1709,20 +1683,6 @@ La &lt;strong&gt;mug cake al cioccolato&lt;/strong&gt; è la soluzione perfetta:
     </item>
     
     <item>
-      <title>文档</title>
-      <link>http://localhost:1313/docs/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/_index.zh-cn/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  了解如何使用简单而强大的 Blowfish。
-&lt;/div&gt;
-
-&lt;p&gt;本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;安装&lt;/a&gt; 指南，或者访问&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;示例&lt;/a&gt; 来了解 Blowfish 能做什么。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>标签</title>
       <link>http://localhost:1313/tags/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1753,20 +1713,6 @@ La &lt;strong&gt;mug cake al cioccolato&lt;/strong&gt; è la soluzione perfetta:
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/authors/_index.ja/</guid>
       <description>&lt;p&gt;あなたの記事でどのように著者の分類を開始するかの簡単な例です。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>資料</title>
-      <link>http://localhost:1313/docs/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/_index.ja/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  シンプル、それでいて強力。 Blowfish の利用方法と特徴について学ぶ。
-&lt;/div&gt;
-
-&lt;p&gt;このセクションは Blowfish について知る必要のある全てのことが含まれています。新しく作成する場合は、開始するために&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;インストール&lt;/a&gt;ガイド、または Blowfish が何が出来るか&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;サンプル&lt;/a&gt;セクションに訪れてください。&lt;/p&gt;</description>
       
     </item>
     

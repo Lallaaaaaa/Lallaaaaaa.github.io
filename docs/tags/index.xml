@@ -112,16 +112,6 @@
     </item>
     
     <item>
-      <title>Video-Ricetta</title>
-      <link>http://localhost:1313/tags/video-ricetta/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/video-ricetta/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>友链</title>
       <link>http://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
@@ -572,16 +562,6 @@
     </item>
     
     <item>
-      <title>Lead</title>
-      <link>http://localhost:1313/tags/lead/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/lead/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Likes</title>
       <link>http://localhost:1313/tags/likes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -627,6 +607,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/tags/render/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ricette</title>
+      <link>http://localhost:1313/tags/ricette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
+      <guid>http://localhost:1313/tags/ricette/</guid>
       <description></description>
       
     </item>

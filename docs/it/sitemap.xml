@@ -28,7 +28,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/configurazioni/</loc>
+    <loc>http://localhost:1313/docs/configuration/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -70,11 +70,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/docs/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/docs/advanced-customisation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -249,12 +244,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -268,6 +257,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/ricetta/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -302,12 +297,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/users/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/video-ricetta/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -487,6 +476,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/docs/advanced-customisation/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ilalato/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -632,11 +626,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/lead/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/likes/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -668,6 +657,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/render/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ricette/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -777,11 +771,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/_index.zh-cn/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -793,11 +782,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/authors/_index.ja/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/docs/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

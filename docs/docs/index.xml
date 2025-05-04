@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documenti on Gnammyfy</title>
+    <title>Ricette on Gnammyfy</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Documenti on Gnammyfy</description>
+    <description>Recent content in Ricette on Gnammyfy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <managingEditor>ilarialatorre01@gmail.com (GNAMMYFY)</managingEditor>
@@ -17,11 +17,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/welcome/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  Blowfish è ricco di tantissime funzionalità.
-&lt;/div&gt;
-
-&lt;p&gt;Lo scopo originale di Blowfish era quello di sviluppare un tema semplice e leggero. Il tema è un fork del &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; e ne espande la visione iniziale.&lt;/p&gt;</description>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🥞 Pancake Soffici allo Yogurt | Gnammyfy 
+    &lt;div id=&#34;-pancake-soffici-allo-yogurt--gnammyfy&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-pancake-soffici-allo-yogurt--gnammyfy&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Colazione lenta, coccolosa e profumata?&lt;br&gt;
+Con questi &lt;strong&gt;pancake allo yogurt&lt;/strong&gt;, la tua mattina ha un sapore tutto nuovo! Morbidi, leggeri e super facili da preparare, si cuociono in padella in pochi minuti&amp;hellip; e spariscono in ancora meno! 😉&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.png" />
     </item>
     
@@ -31,21 +38,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/installation/</guid>
-      <description>&lt;p&gt;Segui semplicemente la procedura standard &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Avvio Rapido&lt;/a&gt; di Hugo per iniziare subito.&lt;/p&gt;
-&lt;p&gt;Sono riportate le istruzioni dettagliate per l&amp;rsquo;installazione. Sono disponibili anche le istruzioni per &lt;a href=&#34;#installazione-aggiornamenti&#34;&gt;aggiornare il tema&lt;/a&gt;.&lt;/p&gt;
-
-
-&lt;h2 class=&#34;relative group&#34;&gt;Installazione 
-    &lt;div id=&#34;installazione&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#installazione&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;Queste istruzioni ti consentiranno di iniziare a utilizzare Hugo e Blowfish partendo da uno stato completamente vuoto. La maggior parte delle dipendenze menzionate in questa guida possono essere installate utilizzando il gestore pacchetti corretti per la tua piattaforma.&lt;/p&gt;</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.png" />
     </item>
     
@@ -55,63 +48,59 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/per-iniziare/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt; 
-    &lt;div id=&#34;&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🍫 Mug Cake al Cioccolato – pronta in 5 minuti! 
+    &lt;div id=&#34;-mug-cake-al-cioccolato--pronta-in-5-minuti&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-mug-cake-al-cioccolato--pronta-in-5-minuti&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-  &lt;span class=&#34;flex items-center justify-between grow dark:text-neutral-400&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/6ite_ADLXtI?si=1RG-mCjW2q0Nevf9&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/span&gt;
-Per una colazione o una merenda, semplice, sana e veloce!
-Senza bilancia e senza uova e burro</description>
+&lt;p&gt;Hai voglia di un dolcetto goloso ma hai poco tempo (e zero voglia di sporcare mille ciotole)?&lt;br&gt;
+La &lt;strong&gt;mug cake al cioccolato&lt;/strong&gt; è la soluzione perfetta: si prepara direttamente in tazza, si cuoce in microonde e&amp;hellip; sparisce in un attimo! 😋&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.png" />
     </item>
     
     <item>
       <title>Piadina</title>
-      <link>http://localhost:1313/docs/configurazioni/</link>
+      <link>http://localhost:1313/docs/configuration/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/configurazioni/</guid>
+      <guid>http://localhost:1313/docs/configuration/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configurazioni/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
     </item>
     
     <item>
-      <title>Homepage Layout</title>
+      <title>Piadina di zucchine</title>
       <link>http://localhost:1313/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/homepage-layout/</guid>
-      <description>&lt;p&gt;Blowfish fornisce un layout della home page completamente flessibile. Sono disponibili due modelli principali tra cui scegliere con impostazioni aggiuntive per adattare il design. In alternativa, puoi anche fornire il tuo modello e avere il controllo completo sul contenuto della home page.&lt;/p&gt;</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
     </item>
     
     <item>
-      <title>Shortcodes</title>
+      <title>Piadina di melanzane</title>
       <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/docs/shortcodes/</guid>
-      <description>&lt;p&gt;In addition to all the &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;default Hugo shortcodes&lt;/a&gt;, Blowfish adds a few extras for additional functionality.&lt;/p&gt;
-
-
-&lt;h2 class=&#34;relative group&#34;&gt;Alert 
-    &lt;div id=&#34;alert&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Piadina di melanzane 
+    &lt;div id=&#34;piadina-di-melanzane&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#alert&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#piadina-di-melanzane&#34; aria-label=&#34;Ancora&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;alert&lt;/code&gt; outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p&gt;</description>
+&lt;p&gt;Hai solo una melanzana triste in frigo e poca voglia di cucinare? 🍆&lt;br&gt;
+La piadina di melanzane è il salva-cena perfetto: si prepara in forno, con pochi ingredienti e in soli 15 minuti!&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
     </item>
     
@@ -196,16 +185,6 @@ Senza bilancia e senza uova e burro</description>
     </item>
     
     <item>
-      <title>Advanced Customisation</title>
-      <link>http://localhost:1313/docs/advanced-customisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
-      <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
-    </item>
-    
-    <item>
       <title>Hosting &amp; Deployment</title>
       <link>http://localhost:1313/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -227,31 +206,13 @@ Senza bilancia e senza uova e burro</description>
     </item>
     
     <item>
-      <title>文档</title>
-      <link>http://localhost:1313/docs/_index.zh-cn/</link>
+      <title></title>
+      <link>http://localhost:1313/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/_index.zh-cn/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  了解如何使用简单而强大的 Blowfish。
-&lt;/div&gt;
-
-&lt;p&gt;本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;安装&lt;/a&gt; 指南，或者访问&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;示例&lt;/a&gt; 来了解 Blowfish 能做什么。&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>資料</title>
-      <link>http://localhost:1313/docs/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/_index.ja/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  シンプル、それでいて強力。 Blowfish の利用方法と特徴について学ぶ。
-&lt;/div&gt;
-
-&lt;p&gt;このセクションは Blowfish について知る必要のある全てのことが含まれています。新しく作成する場合は、開始するために&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;インストール&lt;/a&gt;ガイド、または Blowfish が何が出来るか&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;サンプル&lt;/a&gt;セクションに訪れてください。&lt;/p&gt;</description>
-      
+      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
     </item>
     
   </channel>
