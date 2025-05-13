@@ -238,12 +238,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/documentazione/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/samples/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -266,22 +260,6 @@
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/series/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/tags/shortcodes/</loc>
@@ -566,6 +544,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/series/documentazione/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/authors/secondauthor/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -606,22 +589,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/homepage/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/hosting/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/icon/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/layouts/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -664,6 +637,21 @@
     <loc>http://localhost:1313/tags/ricette/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/series/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/series/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/tags/series/</loc>

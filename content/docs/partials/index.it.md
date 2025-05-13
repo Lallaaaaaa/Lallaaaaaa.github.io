@@ -1,11 +1,9 @@
 ---
-title: "Partials"
+title: "Insalata di cetrioli"
 weight: 9
 draft: false
-description: "All the partials available in Blowfish."
-slug: "partials"
-tags: ["partials", "analytics", "privacy", "comments", "favicons", "icon", "docs"]
-series: ["Documentation"]
+tags: ["ricette"]
+series: ["Ricette"]
 series_order: 9
 ---
 

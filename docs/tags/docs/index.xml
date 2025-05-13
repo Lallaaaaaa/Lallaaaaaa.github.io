@@ -12,16 +12,6 @@
     <atom:link href="http://localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Piadina di zucchine</title>
-      <link>http://localhost:1313/docs/homepage-layout/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/docs/homepage-layout/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
-    </item>
-    
-    <item>
       <title>Front Matter</title>
       <link>http://localhost:1313/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

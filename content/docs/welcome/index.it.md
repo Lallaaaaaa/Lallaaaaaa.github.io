@@ -53,6 +53,7 @@ Con questi **pancake allo yogurt**, la tua mattina ha un sapore tutto nuovo! Mor
 ---
 
 ### 📸 Mostraci la tua colazione!
-Prepara i tuoi pancake, fai una bella foto e tagga **@gnammyfy** su Instagram con l’hashtag **#gnammybreakfast**. Le più belle finiranno nelle nostre storie! 💛
+Prepara i tuoi pancake, fai una bella foto e tagga **@gnammyfy** su Instagram.
+Le più belle finiranno nelle nostre storie! 💛
 
 ---

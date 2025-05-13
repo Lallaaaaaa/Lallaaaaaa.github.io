@@ -1,16 +1,9 @@
 ---
-title: "Multiple Authors"
+title: "Nuggets di pollo e spinaci"
 weight: 8
 draft: false
-description: "Configure multiple authors for your articles."
-slug: "multi-author"
-tags: ["authors", "config", "docs"]
-series: ["Documentation"]
+tags: ["ricette"]
 series_order: 10
-showAuthor: true
-authors:
-  - "nunocoracao"
-showAuthorsBadges : false 
 ---
 
 
