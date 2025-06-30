@@ -342,16 +342,6 @@
     </item>
     
     <item>
-      <title>Analytics</title>
-      <link>http://localhost:1313/tags/analytics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/analytics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Autore</title>
       <link>http://localhost:1313/tags/autore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -402,76 +392,6 @@
     </item>
     
     <item>
-      <title>Comments</title>
-      <link>http://localhost:1313/tags/comments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/comments/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>http://localhost:1313/tags/config/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/config/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Content</title>
-      <link>http://localhost:1313/tags/content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/content/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Deployment</title>
-      <link>http://localhost:1313/tags/deployment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/deployment/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/docs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/example/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Favicons</title>
-      <link>http://localhost:1313/tags/favicons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/favicons/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Firebase</title>
       <link>http://localhost:1313/tags/firebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -492,51 +412,11 @@
     </item>
     
     <item>
-      <title>Front Matter</title>
-      <link>http://localhost:1313/tags/front-matter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/front-matter/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Giardino Digitale</title>
       <link>http://localhost:1313/tags/giardino-digitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/tags/giardino-digitale/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/github/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hosting</title>
-      <link>http://localhost:1313/tags/hosting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/hosting/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Icon</title>
-      <link>http://localhost:1313/tags/icon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/icon/</guid>
       <description></description>
       
     </item>
@@ -562,51 +442,11 @@
     </item>
     
     <item>
-      <title>Netlify</title>
-      <link>http://localhost:1313/tags/netlify/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/netlify/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Partials</title>
-      <link>http://localhost:1313/tags/partials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/partials/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Render</title>
-      <link>http://localhost:1313/tags/render/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/render/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ricette</title>
       <link>http://localhost:1313/tags/ricette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/tags/ricette/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Series</title>
-      <link>http://localhost:1313/tags/series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/series/</guid>
       <description></description>
       
     </item>
