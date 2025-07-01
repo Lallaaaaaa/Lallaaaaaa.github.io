@@ -7,7 +7,7 @@ tags: ["About me"]
 series_order: 2
 
 ---
-<img src="foto2.jpg" class="grid-w60" />
+<img src="selfie.png" class="grid-w60" />
 
 
 
