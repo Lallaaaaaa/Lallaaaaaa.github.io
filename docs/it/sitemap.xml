@@ -39,11 +39,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/ricette/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/docs/multi-author/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -59,12 +54,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/content-examples/</loc>
+    <loc>http://localhost:1313/docs/ricette/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/series/</loc>
+    <loc>http://localhost:1313/docs/content-examples/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -444,11 +439,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/advanced-customisation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ilalato/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -499,17 +489,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/documentation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/authors/secondauthor/_index.zh-cn/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/firebase/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -520,11 +500,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/giardino-digitale/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/likes/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -630,11 +605,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/sviluppatore-di-videogiochi/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/views/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

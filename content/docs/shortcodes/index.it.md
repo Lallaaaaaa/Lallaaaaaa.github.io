@@ -1,49 +1,49 @@
 ---
-title: Piadina di melanzane
+title: Burger di zucchine e ricotta
 weight: 6
 draft: false
 tags: ["ricette"]
 series_order: 8
 ---
 
-## Piadina di melanzane
+## Burger di zucchine e ricotta
+Senza uova, senza farina, senza sbatti.
+Solo 4 ingredienti
 
-Hai solo una melanzana triste in frigo e poca voglia di cucinare? 🍆<br>
-La piadina di melanzane è il salva-cena perfetto: si prepara in forno, con pochi ingredienti e in soli 15 minuti!
+## 📋 Ingredienti (per 5 burger verdi verdi)
+-600 g zucchine
+-100 g ricotta
+-4 cucchiai di parmigiano
+-3 cucchiai di pangrattato (o farina di avena)
+-Sale q.b.
+-Per il ripieno (facoltativo ma super consigliato):
+-30–50 g di formaggio filante (tipo mozzarella, scamorza, provola…)
 
-## 📋 Ingredienti per 1 piadina<br>
--150 g di melanzane<br>-10 g di olio d’oliva<br>-30 g di pangrattato<br>-Formaggio q.b. (mozzarella, scamorza, feta… quello che hai!)<br>-1 pizzico di sale<br>-Pomodorini e mozzarella per farcire
+## 👩‍🍳 Come si fanno (in 15 minuti o meno)
+1. **Grattugia time**
+Lava le zucchine, togli le estremità e grattugiale con i fori larghi (puoi anche frullarle, non siamo rigidi).
+Aggiungi un pizzico di sale e lasciale riposare 10-15 minuti: perderanno acqua come al primo giorno di palestra.
 
-### 👩‍🍳 Preparazione
+2. **Strizza come se non ci fosse un domani**
+Scola le zucchine e strizzale benissimo. Devono essere asciutte, tipo tovaglia dopo il centrifugato.
 
-1. **Affetta le melanzane**  
-Tagliale sottili, ma non esagerare con la mandolina: troppo fini = rischio carbone 🔥
+3. **Impasta e ama**
+In una ciotola unisci zucchine, ricotta, parmigiano, pangrattato e un altro pizzico di sale. Mescola fino a ottenere un impasto compatto e profumatissimo.
 
-2. **Prepara la teglia**
-Stendi un foglio di carta forno e spennellalo con metà dell’olio. Sii generoso, niente tirchierie.
+4. **Forma i burger**
+Preleva una cucchiaiata, appiattisci, se vuoi aggiungi il formaggio al centro e richiudi con altro impasto. Facile, no?
 
-3. **Componi la piadina**
-Disponi le fette di melanzane una sopra l’altra, leggermente sovrapposte, creando un disco tipo base pizza.
+5. **Cottura a tua scelta:**
+-In padella: 7–8 min per lato con un filo d’olio
+-In forno ventilato: 200° per 10–15 min
+-In friggitrice ad aria: 190° per 12–15 min
 
-4. **Condisci con amore**
-Aggiungi il resto dell’olio, un pizzico di sale, pangrattato e formaggio a pioggia (più ne metti, più godi 😎).
-
-5. **Inforna e aspetta la magia**
-Cuoci a 180°C per 10 minuti. La casa inizierà a profumare tipo pizzeria napoletana.
-
-6. **Farcitura finale**
-Una volta sfornata, aggiungi all’interno pomodorini freschi e mozzarella, piega a metà… et voilà!
-
-
----
-### 🍴 Consigli Gnammyfy
-Vuoi un effetto crunchy? Passala altri 2 minuti sotto il grill!
-
-Per una versione vegan, usa un formaggio vegetale e voilà: cruelty-free e buonissima!
-
-Extra idea: dentro ci stanno da Dio anche hummus, pesto, o affettati veggie.
-
-### 📸 Facci vedere la tua creazione!
-Hai provato questa bomba di piadina? Scatta una foto, tagga @gnammyfy e usa l’hashtag #piadinabomb – le più belle le postiamo nelle storie! 💜
+## 🍴 Consigli Gnammyfy
+- Servili con una salsina allo yogurt o un’insalata croccante.
+- Puoi congelarli da crudi: burger pronto → fame risolta.
+- Aggiungi spezie tipo paprika o curcuma se vuoi dargli un twist speziato.
 
 ---
+
+📸 Se li prepari, vogliamo vederli!
+Tagga @gnammyfy e mostra al mondo che anche con 4 ingredienti si può fare faville 💚

@@ -392,16 +392,6 @@
     </item>
     
     <item>
-      <title>Firebase</title>
-      <link>http://localhost:1313/tags/firebase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/firebase/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Fotografia Di Bambole</title>
       <link>http://localhost:1313/tags/fotografia-di-bambole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -417,16 +407,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/tags/giardino-digitale/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Likes</title>
-      <link>http://localhost:1313/tags/likes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/likes/</guid>
       <description></description>
       
     </item>
@@ -567,16 +547,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
       <guid>http://localhost:1313/tags/sviluppatore-di-videogiochi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Views</title>
-      <link>http://localhost:1313/tags/views/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ilarialatorre01@gmail.com (GNAMMYFY)</author>
-      <guid>http://localhost:1313/tags/views/</guid>
       <description></description>
       
     </item>
